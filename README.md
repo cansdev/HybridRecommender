@@ -17,7 +17,6 @@ This repository contains a **C++ implementation** of a **hybrid recommender syst
 5. [Hyperparameters](#hyperparameters)  
 6. [Usage](#usage)  
 7. [Further Observations](#further-observations)  
-8. [Future Work](#future-work)  
 
 ---
 
@@ -43,7 +42,7 @@ Subsequent **performance analyses** revealed that **IBCF** introduced significan
 
 ---
 
-## Performance Summary
+## Performance Adjustment
 
 - The final hybrid system **disabled IBCF** for improved runtime.
 - Disabling IBCF resulted in a **marginal drop** in accuracy but a **significant** runtime improvement.
