@@ -46,8 +46,6 @@ Subsequent **performance analyses** revealed that **IBCF** introduced significan
 ## Performance Summary
 
 - The final hybrid system **disabled IBCF** for improved runtime.
-- **RMSE**: ~0.9041 on the competition data.
-- **Runtime**: ~0.0799 seconds for test-set predictions.
 - Disabling IBCF resulted in a **marginal drop** in accuracy but a **significant** runtime improvement.
 
 ---
